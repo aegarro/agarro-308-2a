@@ -1,4 +1,3 @@
-
 public class Mult {
 	public static void main(String[] args) {
         // Prints 2 * 3
